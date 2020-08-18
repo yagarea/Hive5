@@ -1,7 +1,7 @@
 int magnet_pin = 8;
 
 void setup() {
-  pinMode(mahnet_pin, OUTPUT);
+  pinMode(magnet_pin, OUTPUT);
 
 }
 void loop() {
