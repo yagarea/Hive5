@@ -1,12 +1,3 @@
-/*
- * 
- * All the resources for this project: http://randomnerdtutorials.com/
- * Modified by Rui Santos
- * 
- * Created by FILIPEFLOP
- * 
- */
- 
 #include <SPI.h>
 #include <MFRC522.h>
  
